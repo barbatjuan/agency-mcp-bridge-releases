@@ -1,11 +1,11 @@
 {
-    "version": "0.13.1",
-    "package": "https://github.com/barbatjuan/agency-mcp-bridge-releases/releases/download/v0.13.1/agency-mcp-bridge-0.13.1.zip",
-    "sha256": "1d1027218fd100508d3aee8762a26d88ace0f67520131e6cc630cd3de0db43bc",
+    "version": "0.13.2",
+    "package": "https://github.com/barbatjuan/agency-mcp-bridge-releases/releases/download/v0.13.2/agency-mcp-bridge-0.13.2.zip",
+    "sha256": "e151936fdf0bbc97af30d474b0695767f94d58d806c0521ebd14a02162c56e15",
     "requires": "7.0",
     "requires_php": "8.3",
     "tested": "7.1",
     "released": "2026-09-07",
     "url": "https://raw.githubusercontent.com/barbatjuan/agency-mcp-bridge-releases/main/manifest.json",
-    "signature": "R/0Ijzl6NAjte4jwcVrEU15JywAP01QikhkQ+xYfdcgfdvxUeCRZxzFTDeINjcFmuwQ7LHEwDk4ytP+2D1SrjvTcvpBrIOBcjcUZQDu/lCkDoAk6V4Z5e7EnyrijUeBLettmwhhrcpnwWTBIeoQxqVjlBo95vI7Q0cadHa4k8mY8gM2lYhmuUx8Sczr3bqoPIEkhiKq8OxO/fvwWXsZN+x+7Z0PFJcRqrGLSJsZwBixVdIzJvtKwnaaSem4qAWjQ3aSVhFJpYCDDYDKWBPITMYDHviGCR8CtepBANdMldAGm7uv2NYO3osQZtwoIeN99yz5TqnYpKhVA0G7kOkD42Xd2nVkcQ1NpiGUPAFgC1pkfyHaAXEdP0sSvQKhD8SHI+uHWPmXr5rEPIyfWsBnipTECjyZqeHASBePU4UXS0PgfUnSjtiP0wgoVnDe9NXb6A16M4gsHKIbEPei+wJtc4YeUku8kKxYsJlO53QmBroHRmW4obitxy5xExozwRROAm3SIGHbGZGMxUaqvz+ijvIFDJkkd5jLePaMEYAuGS5j247GJKu/+X5Z4utl+HGe7+wNVQiOtLk3FNlQYHL2x436UNVPfdswmALPudMCY2kB2bvrbajaC60ehjSGdCqh4HAMn4SwVHchL88WeieriWtDR5Lf4CZxpRzo4bWdvsO4="
+    "signature": "JFKtt85LbyLNdGkXdMmaIjB2Z3Z/4Eydbok+ch2XjFBPWD6SaBOtUmz6qyQgr+hz3M/Hep/egf014WDDTrvpQA+ZQxOHxylBoKg/cY948fWtG/0V6uoi5QB54fcbAx6SVoadQHP3ibp73ISe4WazMRetW8E51GzFBxUB4u491hgsrwFeW5/6pNRjob77OzZo+EsxjaTlhyIaem/eGUHhaE+C9rzj1mgACgW7+DznQXr17CObxpzSabRYfBCGJkEJf0u7Z2un1yPq+WDBNN1coElGq++OXHEm3dOZ4GDGFSP0iVaBcL3THk6stRi6bfrL/FTjupfQbxxhkyNROYLvMk7eYt1xFQ0ZnTW+8N3A1omVjaSVotvR38qjVNGBOLM5p8yxkpnJrEg15ZeqFTNtshZnKtcMSWhtbbI54k1ooHMFhDfHfLM03Xy3FEZLXAtfq21T5/HmgjS+mQ2T5JGpVurUXss8jPwqO/ieIlQiRR84PeQzWkF0p6wyefNWFxOXZuXipCSxWBnz+AfBoMCLhMMA4qJ5uewc9HTy05ZvwXiGquq1Z46MxTHxnR/AN2O00ZB7lKvWksNP7NnOix2FDhl282kA1csUNx6XJcMebMHjZ+fC7UNSB9L/7Wj4fA8rUEp5L4sM8tFqexEJZBNddPNpmyGHBS6BDK6QOmqejMw="
 }
