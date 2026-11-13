@@ -1,12 +1,12 @@
 {
-    "version": "0.31.0",
-    "package": "https://github.com/barbatjuan/agency-mcp-bridge-releases/releases/download/v0.31.0/agency-mcp-bridge-0.31.0.zip",
-    "sha256": "ba71fd5b41f2bc2d3b8d9adb835b4beba41b76d070e55e881226c6a13f4676ef",
+    "version": "0.32.0",
+    "package": "https://github.com/barbatjuan/agency-mcp-bridge-releases/releases/download/v0.32.0/agency-mcp-bridge-0.32.0.zip",
+    "sha256": "3b9e00f552bfeb02aeb40451a33f5a480810b73b1aa1e0cd3edeb288bdc04688",
     "requires": "7.0",
     "requires_php": "8.1",
     "tested": "7.1",
     "url": "https://raw.githubusercontent.com/barbatjuan/agency-mcp-bridge-releases/main/manifest.json",
-    "released": "2026-11-03",
-    "expires": "2027-02-01T10:35:00Z",
-    "signature": "Bi0CS8F6QyPRQWZaj74nu6yaAk35hI4BTAuBu1pvsHMzZudWZo8u/MqZFIGxTq0WrFelfSJ3Q5k8bAX7zren57zsK08DWufY3kx8mrpmaDwN1WPZzOPllY+8QS3de+fzXJ2cm8PwAAOoScceSLJl2X9Kcu6p9ZE8nM8ZcRlFmbGeR0xBCjQwMiZVaxrLE+Q/AKU7a2nWRi/dJ23WE4RDSfnkTwWWymBpdZfWjImKrUkr54Tc9FIO750KrXEM9/3XBhm1Wdvc4hQLks1E773T+/0p9P1CrDZccuETabPIDnbMxwqL/TTcm5NC61I9B/IpX/xJs+eXfvYtuz/2PWzrpXtlEal1/qC+3g78FUP2Gse5lsxt/ONX/E8RN3K1kUC/ADPuioVUFptxqzu3MW5Van7Be8djtvnxh/OTER3/a9szK0+sFT9A5nHhes5rhUXl8WoUK3T8HqI5rRWD9/uVtGzK1/Y22uR784fgy5AV7iAEtjTeFFZWQcpvVnDGLiHIKXUjtTRHtjg+62FKzAvUlonjdhHWlmUHA+AfzJt5d85rhzEoCtGzHruZLxX3Q3H4eWVzCXEiajPHXH38UsWrA80JgcUfSyDOT9DC+pcd25yppARh0iI8USXNtmq4KL+hWi6sTb4XCummA0ZVADO3TATQxl2GhXVLTDK4jTXgIIA="
+    "released": "2026-11-13",
+    "expires": "2027-02-11T18:40:52Z",
+    "signature": "VFdVH2Wv5sGpw9oOg+J0f+ACg09CCuEyyblxylDQob8TAw79E02TCeN6KiFGbUCGBm4cK9TX3gvJVwDn+dc5w381yXQS29EPrf3YeOZwSyRiDFe63C3fH+E7l2mbK99nrcbo4/oQGFU1vsvEW60QAxaIdZT4Bfn2JhNtzfBe+1MOCbjeXmEPo+XLzZgnpRal3rTFW2Q35FB53ZIHFiqB+YlTL9NOZCXf06y01HCIe4yjfooB/AHEvP4kXKIoUer1Z6d87J/vaaikuexG0pzYaqbJIq1qraqMXm+xM01WVKK2AdBsufdhK/F55tmfyWTq66OAEsGFk43U8m7/kXQKvr+jt0Pavvhuz4VONd9Fp6NlqlPwCSdgHCGqu9VKn9z19GSmuWf7IlfwImOe+jYZwloaJB0FqA0TQNyqOn0xuHY902whK+tUKiqsCXBa+UdeMtiOV2wmpG6O8dGrqvk0FFnJlJ+r+8ADJvMt3YMs2mlpLjl5GEd4N858zExBr8GMqhyfIR/DNMttvavD3bDERcAeaeMr9R4kmYKvXtC7Y/ZyW3KTRIrXqzACf2qiD9SE2Iv4qPsfJ07XcZ3TcpvkMvdEsAdbrSd1bN7ntnDU9T8n/HmHcRHpfcdqIBwcq/ZixU49kpY6bkNCyYcV+hTsUBjb2xTIMWrkHoeTxjU8aCI="
 }
